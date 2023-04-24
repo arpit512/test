@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "6443c665df9a82f843f00ebc"
+  },
+  "emp_id": 101,
+  "emp_name": "john",
+  "salary": 2000
+},{
+  "_id": {
+    "$oid": "6443c8cfdf9a82f843f00ebd"
+  },
+  "emp_id": "123",
+  "emp_name": "arpit",
+  "age": "23"
+},{
+  "_id": {
+    "$oid": "6443c8cfdf9a82f843f00ebe"
+  },
+  "emp_id": "124",
+  "emp_name": "gaurav",
+  "age": "55"
+},{
+  "_id": "10",
+  "emp_id": 170,
+  "emp_name": "johnn",
+  "salary": 28000
+},{
+  "_id": {
+    "$oid": "6443ccf2df9a82f843f00ebf"
+  },
+  "name": "johny",
+  "age": 30
+},{
+  "_id": {
+    "$oid": "6443ccf2df9a82f843f00ec0"
+  },
+  "name": "rocky",
+  "age": 450
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d61"
+  },
+  "name": "John Doe",
+  "position": "Software Engineer",
+  "department": "Engineering",
+  "salary": 90000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d62"
+  },
+  "name": "Jane Smith",
+  "position": "Project Manager",
+  "department": "Management",
+  "salary": 110000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d63"
+  },
+  "name": "Bob Johnson",
+  "position": "Marketing Manager",
+  "department": "Marketing",
+  "salary": 105000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d64"
+  },
+  "name": "Sara Lee",
+  "position": "Human Resources",
+  "department": "Human Resources",
+  "salary": 95000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d65"
+  },
+  "name": "Tom Williams",
+  "position": "Sales Representative",
+  "department": "Sales",
+  "salary": 85000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d66"
+  },
+  "name": "Emily Jones",
+  "position": "Accountant",
+  "department": "Accounting",
+  "salary": 100000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d67"
+  },
+  "name": "Mike Davis",
+  "position": "Operations Manager",
+  "department": "Operations",
+  "salary": 120000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d68"
+  },
+  "name": "Kelly Brown",
+  "position": "IT Specialist",
+  "department": "Information Technology",
+  "salary": 95000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d69"
+  },
+  "name": "Samuel Kim",
+  "position": "Customer Service Representative",
+  "department": "Customer Service",
+  "salary": 80000
+},{
+  "_id": {
+    "$oid": "6090196dbb1cfc7842916d6a"
+  },
+  "name": "Anna Lee",
+  "position": "Graphic Designer",
+  "department": "Design",
+  "salary": 85000
+}]
